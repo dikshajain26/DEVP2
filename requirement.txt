@@ -1,0 +1,7 @@
+numpy
+pandas
+bar_chart_race
+matplotlib.pyplot
+matplotlib.animation
+FuncAnimation
+plotly.express
